@@ -13,6 +13,8 @@
 		A3B4098824E8FE6D002735A1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3B4098624E8FE6D002735A1 /* Main.storyboard */; };
 		A3B4098A24E8FE6E002735A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A3B4098924E8FE6E002735A1 /* Assets.xcassets */; };
 		A3B4098D24E8FE6E002735A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A3B4098B24E8FE6E002735A1 /* LaunchScreen.storyboard */; };
+		A3B4099724E9143B002735A1 /* ObserverOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B4099624E9143B002735A1 /* ObserverOneViewController.swift */; };
+		A3B4099924E91452002735A1 /* ObserverTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B4099824E91452002735A1 /* ObserverTwoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		A3B4098924E8FE6E002735A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A3B4098C24E8FE6E002735A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A3B4098E24E8FE6E002735A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A3B4099624E9143B002735A1 /* ObserverOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObserverOneViewController.swift; sourceTree = "<group>"; };
+		A3B4099824E91452002735A1 /* ObserverTwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObserverTwoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				A3B4098024E8FE6D002735A1 /* AppDelegate.swift */,
 				A3B4098224E8FE6D002735A1 /* SceneDelegate.swift */,
 				A3B4098424E8FE6D002735A1 /* ViewController.swift */,
+				A3B4099624E9143B002735A1 /* ObserverOneViewController.swift */,
+				A3B4099824E91452002735A1 /* ObserverTwoViewController.swift */,
 				A3B4098624E8FE6D002735A1 /* Main.storyboard */,
 				A3B4098924E8FE6E002735A1 /* Assets.xcassets */,
 				A3B4098B24E8FE6E002735A1 /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				A3B4098524E8FE6D002735A1 /* ViewController.swift in Sources */,
 				A3B4098124E8FE6D002735A1 /* AppDelegate.swift in Sources */,
 				A3B4098324E8FE6D002735A1 /* SceneDelegate.swift in Sources */,
+				A3B4099724E9143B002735A1 /* ObserverOneViewController.swift in Sources */,
+				A3B4099924E91452002735A1 /* ObserverTwoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
